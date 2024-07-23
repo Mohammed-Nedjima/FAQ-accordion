@@ -30,19 +30,19 @@ The challenge is to build a FAQ accordion that matches the provided design. Each
 - Live Site URL: [Github pages](https://mohammed-nedjima.github.io/FAQ-accordion/)
 
 ## My process
+First, I built the component using HTML and styled it with CSS. Then, I used JavaScript to add the click and collapse functionality. I encountered an issue where sections wouldn't collapse when another was clicked. Fortunately, I resolved this by adding logic to iterate over and close any open sections.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+-HTML
+-CSS
+- JavaScript
 
 ### What I learned
 
 -Practice semantic Html elements
 -Practice CSS custom properties
--The usage of max-width property
+-DOM manipulation with JavaScript
 
 ## Author
 
