@@ -27,7 +27,7 @@ The challenge is to build a FAQ accordion that matches the provided design. Each
 ### Links
 
 - Solution URL: [Github](https://github.com/Mohammed-Nedjima/FAQ-accordion.git)
-- Live Site URL: [Github pages](https://mohammed-nedjima.github.io/qr-code-component/)
+- Live Site URL: [Github pages](https://mohammed-nedjima.github.io/FAQ-accordion/)
 
 ## My process
 
@@ -42,7 +42,7 @@ The challenge is to build a FAQ accordion that matches the provided design. Each
 
 -Practice semantic Html elements
 -Practice CSS custom properties
--The usage of max-width propertie
+-The usage of max-width property
 
 ## Author
 
